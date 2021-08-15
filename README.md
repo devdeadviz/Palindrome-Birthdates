@@ -4,7 +4,7 @@ A birthday app which takes bithdate as input and shows whether it is palindrome 
 
 # Application Link
 
-Live App Link -
+Live App Link - [https://devdeadviz-palindrome-birthdate.netlify.app/](https://devdeadviz-palindrome-birthdate.netlify.app/)
 
 # Tech Stack
 
